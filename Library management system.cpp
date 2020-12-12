@@ -1,4 +1,4 @@
-//code for library mangement system//
+//code for library mangement system.//
 #include <iostream>
 #include <string>
 using namespace std;
